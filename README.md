@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Aarush-Parashar
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m a flutter developer
+- 🌱 I create cross platform apps
+- 
 - 
 
 <!---
